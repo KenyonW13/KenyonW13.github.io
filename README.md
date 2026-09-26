@@ -1,8 +1,8 @@
+<!DOCTYPE html>
 # KenyonW13.github.io
 an actual website
-<!DOCTYPE html>
 <html>
-
+<link rel="stylesheet" href="style.css">
 </html>
 <head>
 <title>booooooooooooo</title>
@@ -15,3 +15,11 @@ an actual website
 <p><i>boooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo6</i></p>
 <p>the ghost is a link<p>
 <h1>ghost used to be spelled gost<h1>
+</body>
+</html>
+<style>
+body{color:blue;}
+body {background:green;}
+h1{color:red;}
+p{color:purple;}
+</style>
