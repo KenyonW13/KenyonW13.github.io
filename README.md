@@ -1,5 +1,6 @@
+
 an actual website
-<>!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <link rel="stylesheet" href="style.css">
 </html>
