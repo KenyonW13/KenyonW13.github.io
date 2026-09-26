@@ -19,7 +19,7 @@ an actual website
 </html>
 <style>
 body{color:blue;}
-body {background:green;}
+body {background:black;}
 h1{color:red;}
 p{color:purple;}
 </style>
