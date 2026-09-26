@@ -1,6 +1,6 @@
-<!DOCTYPE html>
 # KenyonW13.github.io
 an actual website
+<>!DOCTYPE html>
 <html>
 <link rel="stylesheet" href="style.css">
 </html>
