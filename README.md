@@ -1,5 +1,4 @@
 # KenyonW13.github.io
-#orange juice
 an actual website
 <!DOCTYPE html>
 <html>
