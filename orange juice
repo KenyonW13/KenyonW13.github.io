@@ -18,7 +18,7 @@ an actual website
 <img src="https://github.com/user-attachments/assets/e78a6f2b-a316-45e9-9b81-910bc046192f" />
 <style>
 body{color:blue;}
-body {background:black;}
+body {background:white;}
 h1{color:red;}
 p{color:purple;}
 </style>
