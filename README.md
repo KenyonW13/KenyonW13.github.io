@@ -15,7 +15,7 @@ an actual website
 <p><i>boooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo6</i></p>
 <p>the ghost is a link<p>
 <h1>ghost used to be spelled gost<h1>
-<img src="blob:chrome-untrusted://media-app/c5e8119b-1142-4748-9ebb-6d11f5defb5b" alt="canvas (1).png"/>
+<img src="blob:chrome-untrusted://media-app/c5e8119b-1142-4748-9ebb-6d11f5defb5b"/>
 </body>
 </html>
 <style>
