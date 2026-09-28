@@ -17,6 +17,6 @@ an actual website
 <h1>ghost used to be spelled gost<h1>
 <img src="https://github.com/user-attachments/assets/e78a6f2b-a316-45e9-9b81-910bc046192f" />
 <style>
-body{color:#f3a257;}
-body {background:#a1a39a;}
+body{color:#12354e;}
+body {background:#f99d1b;}
 </style>
