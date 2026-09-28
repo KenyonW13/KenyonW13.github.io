@@ -8,6 +8,7 @@ an actual website
 <title>citrus fruits</title>
 </head>
 <body>
+ <img width="2800" height="2226" alt="Buddhas_hand_1 (1)" src="https://github.com/user-attachments/assets/722f9c3a-ac5d-48fb-8fdb-d807469ac68c" />
 By <a href="//commons.wikimedia.org/wiki/User:Kaldari" title="User:Kaldari">Kaldari</a> - <span class="int-own-work" lang="en">Own work</span>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=6247661">Link</a>
 <h1>oranges</h1>
 <p>boooooooooo3</p>
