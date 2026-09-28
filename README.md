@@ -1,5 +1,4 @@
 # there's so many types of oranges
-<!DOCTYPE html>
 <html>
 <link rel="stylesheet" href="style.css">
 </html>
@@ -7,7 +6,7 @@
 <title>citrus fruits</title>
 </head>
 <body>
-<h1 href="https://en.wikipedia.org/wiki/List_of_citrus_fruits">types of citrus fruits:there's a lot<h1>
+<a href="https://en.wikipedia.org/wiki/List_of_citrus_fruits">types of citrus fruits:there's a lot<a>
 <img width="280" height="223" alt="Buddhas_hand_1 (1)" src="https://github.com/user-attachments/assets/722f9c3a-ac5d-48fb-8fdb-d807469ac68c" />
 By <a href="//commons.wikimedia.org/wiki/User:Kaldari" title="User:Kaldari">Kaldari</a> - <span class="int-own-work" lang="en">Own work</span>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=6247661">Link</a>
 <h1>oranges</h1>
