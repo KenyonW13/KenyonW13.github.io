@@ -10,14 +10,14 @@ an actual website
 <body>
  <img width="2800" height="2226" alt="Buddhas_hand_1 (1)" src="https://github.com/user-attachments/assets/722f9c3a-ac5d-48fb-8fdb-d807469ac68c" />
 By <a href="//commons.wikimedia.org/wiki/User:Kaldari" title="User:Kaldari">Kaldari</a> - <span class="int-own-work" lang="en">Own work</span>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=6247661">Link</a>
-<h1>oranges</h1>
-<p>boooooooooo3</p>
-<p>boooooooooooo4</p>
-<h2>lemons</h2>
-<p></p>
-<p><p>
-<h1>ghost used to be spelled gost<h1>
+<h1 href="">oranges</h1>
+<p>the color orange was named after the fruit</p>
+<p>oranges and bitter oranges are different</p>
 <img src="https://github.com/user-attachments/assets/e78a6f2b-a316-45e9-9b81-910bc046192f" />
+<h2 href="">lemons</h2>
+<p>life didn't give us lemons</p>
+<p>we made them</p>
+ <p>they are a cross breed of citrons and bitter oranges</p>
 <style>
 body{color:#12354e;}
 body {background:#f99d1b;}
